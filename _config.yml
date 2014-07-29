@@ -1,0 +1,12 @@
+# Site settings
+title: igor apa
+email: me@igorapa.com
+description: "alguma coisa vai aqui"
+baseurl: ""
+url: "http://igorapa.com"
+twitter_username: igorapa
+github_username:  igor-apa
+
+# Build settings
+markdown: kramdown
+permalink: pretty
