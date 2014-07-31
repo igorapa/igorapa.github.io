@@ -1,0 +1,1131 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"bg",
+				"bg-torcida-ns-responsive.jpg	w:930 h:499"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"s",
+				"sprites.png	w:541 h:383"
+			],
+			[
+				"you",
+				"youGet"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"input",
+				"inputTxt"
+			],
+			[
+				"inpu",
+				"inputTxt"
+			],
+			[
+				"section7",
+				"section7-widget-02.jpg	w:286 h:436"
+			],
+			[
+				"sec",
+				"section4-unit.jpg	w:367 h:120"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"01",
+				"01.png	w:761 h:658"
+			],
+			[
+				"scree",
+				"section2-screen-steps.png	w:255 h:103"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"mouse",
+				"mouseout"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"limi",
+				"limiteDir"
+			],
+			[
+				"lim",
+				"limiteEsq"
+			],
+			[
+				"cami",
+				"camisas.png	w:1808 h:191"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/_layouts/home.html",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 245,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 346,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/_layouts/page.html",
+			"settings":
+			{
+				"buffer_size": 187,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 642,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 507,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/_includes/footer.html",
+			"settings":
+			{
+				"buffer_size": 3515,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/css/main.css",
+			"settings":
+			{
+				"buffer_size": 10752,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/blog.md",
+			"settings":
+			{
+				"buffer_size": 481,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/about.md",
+			"settings":
+			{
+				"buffer_size": 470,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/_config.yml",
+			"settings":
+			{
+				"buffer_size": 237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/index.html",
+			"settings":
+			{
+				"buffer_size": 21,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/_posts/2014-07-29-welcome-to-jekyll.markdown",
+			"settings":
+			{
+				"buffer_size": 782,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/igoralmeida/Dev/igorapa/_posts/2014-07-29-hello-world.markdown",
+			"settings":
+			{
+				"buffer_size": 773,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"lits",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Jobs/vagrant/BKP/hosts",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/templates/velocity/estaticas/pagamentoTxt.vm",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/default/templates/velocity/includes/popFrete.vm",
+		"/Jobs/ep-611-assets/themes/NS_MX/L_PUMAS/template-resources/css/structure.css",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/template-resources/css/old/structure.scss",
+		"/Jobs/ep-611-assets/Gruntfile.js",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/templates/velocity/includes/footer.vm",
+		"/Jobs/ep-611-assets/themes/OUI/L_FMF/template-resources/css/sites/fmf/main/main.scss",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/template-resources/img/structure/emails/index.html",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/templates/velocity/includes/header.vm",
+		"/Jobs/ep-611-assets/themes/OUI/L_FMF/template-resources/css/sites/fmf/main.scss",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/template-resources/css/old/home.scss",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/template-resources/css/old/reset.scss",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/template-resources/css/old/modal.scss",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/template-resources/css/min/home.min.css",
+		"/Jobs/ep-611-assets/themes/Times/L_INTER_2014/template-resources/css/modal.css",
+		"/Jobs/ep-611-assets/themes/Times/L_BAHIA/template-resources/css/modal.css",
+		"/Jobs/ep-611-assets/themes/Times/L_VASCO/template-resources/css/modal.css",
+		"/Jobs/ep-611-assets/themes/Times/L_CRUZEIRO/template-resources/css/modal.css",
+		"/Jobs/ep-611-assets/themes/Times/L_TOPPER/template-resources/css/modal.css",
+		"/Jobs/ep-611-assets/themes/Times/L_NBA/template-resources/css/modal.css",
+		"/Jobs/ep-611-assets/themes/Times/L_UFC/template-resources/css/modal.css",
+		"/Jobs/ep-611-assets/themes/Times/L_INTER_2014/template-resources/css/atendimento.css",
+		"/Jobs/ep-611-assets/themes/Times/L_CBF/template-resources/css/structure.css",
+		"/Jobs/ep-611-assets/themes/Times/L_CBF/template-resources/css/modal.css",
+		"/Jobs/ep-611-assets/themes/Times/L_MIZUNO/template-resources/css/structure.css",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/default/templates/velocity/includes/footer.vm",
+		"/Jobs/ep-611-assets/themes/NS_MX_2014/default/templates/velocity/includes/footer.vm",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/default/template-resources/swf/alerta-validacao.jsp",
+		"/Jobs/ep-611-assets/themes/NS_MX_2014/default/template-resources/swf/alerta-validacao.jsp",
+		"/Jobs/ep-611-assets/themes/NS_MX_2014/L_MEXICO/template-resources/css/old/modal.scss",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/default/templates/velocity/includes/newsLetter-js.vm",
+		"/Jobs/ep-611-assets/themes/NS_MX_2014/default/templates/velocity/includes/newsLetter.vm",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/L_ARGENTINA/template-resources/css/old/modal.scss",
+		"/Jobs/ep-611-assets/themes/NS_MX_2014/default/templates/velocity/includes/newsLetter-js.vm",
+		"/Jobs/ep-611-assets/themes/NS_MX_2014/default/template-resources/js/ns_util.js",
+		"/Jobs/ep-611-assets/themes/NS_MX_2014/default/template-resources/dev/js/ns_util.js",
+		"/Jobs/ep-611-assets/themes/NS_MX_2014/default/template-resources/dev/js/jquery.modal.js",
+		"/Jobs/ep-611-assets/themes/NS_MX_2014/default/template-resources/dev/js/functions_v11_5_2.js",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/default/template-resources/dev/js/jquery.modal.js",
+		"/Jobs/ep-611-assets/themes/Times/default/templates/velocity/includes/footer.vm",
+		"/Jobs/ep-611-assets/themes/Times/default/templates/velocity/includes/newsLetter.vm",
+		"/Jobs/ep-611-assets/themes/Times/L_CBF/templates/velocity/includes/newsLetter.vm",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/default/templates/velocity/includes/newsLetter.vm",
+		"/Jobs/ep-611-assets/themes/Times/L_CBF/templates/velocity/includes/footer.vm",
+		"/Jobs/ep-611-assets/themes/Times/default/template-resources/swf/alerta-validacao.jsp",
+		"/Jobs/ep-611-assets/themes/Times/default/templates/velocity/includes/newsLetter-js.vm",
+		"/Jobs/ep-611-assets/themes/Times/default/template-resources/js/functions_vT110609.js",
+		"/Jobs/ep-611-assets/themes/NS_MX_2014/default/template-resources/swf/alerta-fatura-eletronica.jsp",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/L_ARGENTINA/template-resources/css/old/home.scss",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/default/template-resources/dev/js/functions_v20120724.js",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/default/template-resources/dev/js/ns_util.js",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/default/template-resources/js/jquery.modal.js",
+		"/Jobs/ep-611-assets/themes/Times/default/template-resources/js/jquery.modal.js",
+		"/Jobs/ep-611-assets/themes/Times/default/templates/velocity/newsLetterJSON.vm",
+		"/Jobs/ep-611-assets/themes/NS_AR_2014/default/templates/velocity/newsLetterJSON.vm",
+		"/Jobs/ep-611-assets/themes/Times/L_SHOPTIMAO/template-resources/css/modal.css",
+		"/Jobs/ep-611-assets/themes/Times/L_MIZUNO/template-resources/css/modal.css",
+		"/Jobs/ns-static-pages/torcida-netshoes/index.html",
+		"/Jobs/ns-static-pages/torcida-netshoes/home.htm",
+		"/Users/igoralmeida/Downloads/index.vm",
+		"/Users/igoralmeida/Dev/_netshoes/torcida-netshoes/home.htm",
+		"/Users/igoralmeida/Dev/_netshoes/torcida-netshoes/index.html",
+		"/Users/igoralmeida/Dev/_netshoes/torcida-netshoes/css/style.css",
+		"/Users/igoralmeida/Dev/_netshoes/vestiario/index.html",
+		"/Users/igoralmeida/Downloads/index.html",
+		"/Users/igoralmeida/Dev/_netshoes/torcida-netshoes/content.json",
+		"/Users/igoralmeida/Dev/_netshoes/vestiario/css/style.css",
+		"/Users/igoralmeida/Dev/_netshoes/vestiario/content.json",
+		"/Users/igoralmeida/Dev/_netshoes/torcida-netshoes/img/sprites.css",
+		"/Users/igoralmeida/Downloads/bf48db46f1d81df92d2eba5dbfb1528e/sprites.css",
+		"/Users/igoralmeida/Dev/teste/a.txt",
+		"/Users/igoralmeida/Dev/teste/b.txt",
+		"/Users/igoralmeida/Dev/teste/e.txt",
+		"/Jobs/ns-static-pages/140708/index.html",
+		"/Jobs/ns-static-pages/140709/index.html",
+		"/Jobs/ns-static-pages/140704/index.html",
+		"/Jobs/vagrant/IAPA/start_BR.sh",
+		"/Jobs/vagrant/guide/Vagrantfile",
+		"/Jobs/vagrant/maquinaep/Vagrantfile",
+		"/Jobs/vagrant/IAPA/Vagrantfile",
+		"/Users/igoralmeida/Dev/input-placeholder/exemplo/css/style.css",
+		"/Jobs/compre-ganhe/css/style-convocacao.css",
+		"/Jobs/compre-ganhe/compre-ganhe.html",
+		"/Users/igoralmeida/Dev/_netshoes/convocacao/convo3/css/style-convocacao.css",
+		"/Users/igoralmeida/Dev/_netshoes/outlet/style/main.css",
+		"/Users/igoralmeida/Dev/_netshoes/convocacao/poc/02/css/accordion.css",
+		"/Users/igoralmeida/Dev/_netshoes/convocacao/page2/css/style-page.css",
+		"/Users/igoralmeida/Dev/_netshoes/garmin/css/garmin.css",
+		"/Jobs/compre-ganhe/css/sub-home__2.css",
+		"/Jobs/compre-ganhe/css/structure__2.css",
+		"/Jobs/compre-ganhe/promo-convocacao.html",
+		"/Jobs/ns-static-pages/140705/.gitignore",
+		"/Jobs/ns-static-pages/140705/index.html",
+		"/Jobs/ns-static-pages/index.html",
+		"/Users/igoralmeida/Dev/igorapa/_posts/2014-07-02-welcome-to-jekyll.markdown",
+		"/Users/igoralmeida/Dev/igorapa/_site/jekyll/update/2014/07/02/welcome-to-jekyll/index.html",
+		"/Jobs/lab/php/index.php",
+		"/Jobs/admin-afiliados-ns/php/conect.php",
+		"/Users/igoralmeida/Downloads/HowToMakeAWebsite-Stage6-Video4/index.html",
+		"/private/etc/hosts",
+		"/Users/igoralmeida/Desktop/placeholder-daniel.html",
+		"/Users/igoralmeida/Dev/teste/historia.html",
+		"/Jobs/lab/slider-div-javascript-jquery/exemplo/exemplo1.html",
+		"/Users/igoralmeida/.ssh/id_rsa.pub",
+		"/Users/igoralmeida/Dev/input/index.html",
+		"/Users/igoralmeida/Dev/input/css/style.css",
+		"/Users/igoralmeida/Dev/input/js/placeholder.js",
+		"/Users/igoralmeida/Jobs Diversos/input/css/style.css",
+		"/Users/igoralmeida/Jobs Diversos/input/index.html",
+		"/Users/igoralmeida/Jobs Diversos/input/js/placeholder.js",
+		"/Users/igoralmeida/Desktop/Input/index.html",
+		"/Users/igoralmeida/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/igoralmeida/Jobs Diversos/teste/projeto-1/lousa.html",
+		"/Users/igoralmeida/Jobs Diversos/teste/projeto-1/nova-funcionalidade.txt",
+		"/Users/igoralmeida/Jobs Diversos/teste/projeto-1/testando-texto.txt",
+		"/Users/igoralmeida/Jobs Diversos/teste/projeto-1/texto2.txt",
+		"/Users/igoralmeida/Jobs Diversos/teste/projeto-1/bug.txt",
+		"/Jobs/afiliados/versoes/140618/index.html",
+		"/Jobs/afiliados/versoes/140618/www.netshoes.com.br/structure__2.css",
+		"/Jobs/afiliados/versoes/140618/www.netshoes.com.br/sub-home__2.css",
+		"/Users/igoralmeida/Downloads/sub-home__2.css",
+		"/Jobs/lab/slider-div-javascript-jquery/src/slider.js",
+		"/Users/igoralmeida/Jobs Diversos/vestiario/index.html",
+		"/Jobs/xml/arquivo.xml",
+		"/Jobs/teste3/teste3.html",
+		"/Jobs/teste3/acessarWS.js",
+		"/Jobs/teste3/xml.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/default",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/default",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/default",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/template-resources",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/templates",
+			"/Jobs/ep-611-assets/themes/OUI/L_FMF/template-resources/css/sites/fmf",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/template-resources/css/old",
+			"/Jobs/ep-611-assets/themes/NS_MX_2014/default/template-resources/dev",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/L_ARGENTINA",
+			"/Jobs/ep-611-assets/themes/Times/L_CBF",
+			"/Jobs/ep-611-assets/themes/Times/default",
+			"/Jobs/ep-611-assets/themes/NS_MX_2014/default/template-resources/dev",
+			"/Jobs/ep-611-assets/themes/NS_MX_2014/default/template-resources/dev/js",
+			"/Jobs/ep-611-assets/themes/Times",
+			"/Jobs/ep-611-assets/themes/Times/default",
+			"/Jobs/ep-611-assets/themes/Times/L_CBF",
+			"/Jobs/ep-611-assets/themes/Times/default",
+			"/Jobs/ep-611-assets/themes/NS_MX_2014/default/template-resources/dev",
+			"/Jobs/ep-611-assets/themes/NS_MX_2014/default",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/default/template-resources/dev/js",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/default/templates/velocity/includes",
+			"/Jobs/ep-611-assets/themes/Times/default/template-resources/js",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/default/template-resources/dev/js",
+			"/Jobs/ep-611-assets/themes/Times/default",
+			"/Jobs/ep-611-assets/themes/Times/default/template-resources/js",
+			"/Jobs/ep-611-assets/themes/Times/default",
+			"/Jobs/ep-611-assets/themes/Times/default/template-resources/js",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/default/template-resources",
+			"/Jobs/ep-611-assets/themes/Times/default/template-resources/js",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/default",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/default/template-resources/dev",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/default/template-resources/dev/js",
+			"/Jobs/ep-611-assets/themes/NS_AR_2014/default",
+			"/Jobs/ep-611-assets/themes/Times/default/template-resources/js",
+			"/Jobs/ep-611-assets/themes/Times/default/templates",
+			"/Jobs/ep-611-assets/themes/Times/default/template-resources/js",
+			"/Jobs/admin-afiliados-ns"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"compraron este producto",
+			"quénes",
+			"compraron este producto",
+			"Quiénes compraron este producto también han comprado",
+			"Formas de pagos",
+			"tu pedido más",
+			"Recebí tu pedido más",
+			"field-holder",
+			"footer",
+			".i-wrap",
+			"field-holder",
+			".field-holder",
+			"Ingresa tu e-mail acá",
+			"$g_store_name",
+			"Muchas gracias",
+			"¡Muchas Gracias por elegir",
+			"¡Muchas gracias por elegir",
+			"\"River Plate\" para \"Tienda River\"",
+			"Seguí a River Plate en Twitter",
+			"Lunes a Sábados",
+			".input-search-label",
+			"font-size: 18px;",
+			"font-size",
+			"16",
+			"18",
+			"font-size",
+			"simpleTitle",
+			"340px",
+			"quer ir para",
+			"news",
+			"new",
+			"var me",
+			"view_modal",
+			"<div class=\"view_modal\" style=\"opacity: 1; top: 0px; margin-top: 4051px; margin-left: -245px;\">",
+			"var me",
+			"mensagem =",
+			"tes",
+			"email",
+			"mensage",
+			"frmNewsHome",
+			"snippet",
+			"alert",
+			"frmNewsHome",
+			"id=\"frmNewsHome\"",
+			"new",
+			"newModal",
+			"#frmNewsHome",
+			"simpleTitle",
+			"<div class=\"content\">",
+			".top",
+			"<div id=\"boxModal\">",
+			"alertModal",
+			".alertModal",
+			".simpleTitle",
+			"newsletter",
+			"openModal",
+			"btInscrever",
+			"simpleTitle",
+			"cadastrado",
+			"newsletterJSON",
+			"newsletterJSON.ep",
+			"footer-newsletter",
+			"<form id=\"footer-newsletter\" class=\"newsletter-form\" name=\"frmNewsHome\" action=\"/newsletter.ep\" method=\"POST\">",
+			"<div class=\"i-wrap\">",
+			"i-wrap",
+			"tools-button",
+			"btParticipate",
+			"base-button",
+			"submit-step1",
+			"0",
+			"load.gif",
+			"news",
+			"frmNewsHome",
+			"btInscrever",
+			"stEmailNewsletter",
+			"fldEmailNewsletter",
+			"url(img",
+			"#",
+			"modal",
+			"display: none",
+			"tit",
+			"infoSimples",
+			"\"",
+			"valor-modal",
+			"valor",
+			"span",
+			"wp-torcida tc-part",
+			"wp-torcida tc-par",
+			".wp-torcida tc-par",
+			".wp-torcida h2",
+			"2",
+			"<li></li>",
+			"tc-circ",
+			"10",
+			"<a",
+			"div",
+			"<a",
+			"div",
+			"tc-prog-arg",
+			"tc-prog-ger",
+			"tc-prog-ger .divisor",
+			"._0000_barra",
+			"porc",
+			"porc-ger",
+			"li",
+			"<li",
+			"_0001_barra-facebook",
+			"esq",
+			"0",
+			"_00",
+			",",
+			"img",
+			"url",
+			"%",
+			"Limpa estoque",
+			"Compre e Ganhe",
+			"Limpa estoque",
+			"Compre e Ganhe",
+			"deal",
+			"product-line-group",
+			"</li>",
+			"<li>",
+			"R$</del>",
+			"</p>",
+			"<p>",
+			"header",
+			"header-banner",
+			"'192.168.124.137"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/igoralmeida/Dev/igorapa/_layouts/home.html",
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/igoralmeida/Dev/igorapa/_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/igoralmeida/Dev/igorapa/_layouts/post.html",
+					"settings":
+					{
+						"buffer_size": 346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/igoralmeida/Dev/igorapa/_layouts/page.html",
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/igoralmeida/Dev/igorapa/_includes/head.html",
+					"settings":
+					{
+						"buffer_size": 642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								491,
+								491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/igoralmeida/Dev/igorapa/_includes/header.html",
+					"settings":
+					{
+						"buffer_size": 507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/igoralmeida/Dev/igorapa/_includes/footer.html",
+					"settings":
+					{
+						"buffer_size": 3515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 221.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "/Users/igoralmeida/Dev/igorapa/css/main.css",
+					"settings":
+					{
+						"buffer_size": 10752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1155,
+								1155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 512.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/igoralmeida/Dev/igorapa/blog.md",
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/igoralmeida/Dev/igorapa/about.md",
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/igoralmeida/Dev/igorapa/_config.yml",
+					"settings":
+					{
+						"buffer_size": 237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/igoralmeida/Dev/igorapa/index.html",
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/igoralmeida/Dev/igorapa/_posts/2014-07-29-welcome-to-jekyll.markdown",
+					"settings":
+					{
+						"buffer_size": 782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								782,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/igoralmeida/Dev/igorapa/_posts/2014-07-29-hello-world.markdown",
+					"settings":
+					{
+						"buffer_size": 773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true
+}
