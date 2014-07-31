@@ -12,7 +12,7 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Oswald', Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -53,19 +53,28 @@ a         { color: #2a7ae2; text-decoration: none; }
   background: url(img/bg-header.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 0 70%;
+  background-position: 0 30%;
 }
 
 .site-title {
   display: inline-block;
   color: #fff;
   font-size: 26px;
-  letter-spacing: -1px;
-  /*float: left;*/
-  /*line-height: 56px;*/
-  /*position: relative;*/
+  letter-spacing: 10px;
+  position: relative;
+  top: 165px;
   z-index: 1;
   text-transform: uppercase;
+}
+
+.site-title:before {
+  content: "";
+  background: url(img/logo-igorapa.png) no-repeat;
+  width: 153px;
+  height: 127px;
+  position: absolute;
+  top: -125px;
+  left: 3px;
 }
 
 
