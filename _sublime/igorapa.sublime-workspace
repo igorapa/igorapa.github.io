@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"inline",
+				"inline-block"
+			],
+			[
 				"font",
 				"font-size"
 			],
@@ -147,118 +151,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/_layouts/home.html",
-			"settings":
-			{
-				"buffer_size": 131,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 245,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/_layouts/post.html",
-			"settings":
-			{
-				"buffer_size": 346,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/_layouts/page.html",
-			"settings":
-			{
-				"buffer_size": 187,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/_includes/head.html",
-			"settings":
-			{
-				"buffer_size": 642,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/_includes/header.html",
-			"settings":
-			{
-				"buffer_size": 507,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/_includes/footer.html",
-			"settings":
-			{
-				"buffer_size": 3515,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/css/main.css",
-			"settings":
-			{
-				"buffer_size": 10752,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/blog.md",
-			"settings":
-			{
-				"buffer_size": 481,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/about.md",
-			"settings":
-			{
-				"buffer_size": 470,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/_config.yml",
-			"settings":
-			{
-				"buffer_size": 237,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/index.html",
-			"settings":
-			{
-				"buffer_size": 21,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/_posts/2014-07-29-welcome-to-jekyll.markdown",
-			"settings":
-			{
-				"buffer_size": 782,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/igoralmeida/Dev/igorapa/_posts/2014-07-29-hello-world.markdown",
-			"settings":
-			{
-				"buffer_size": 773,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -336,6 +228,23 @@
 	},
 	"file_history":
 	[
+		"/Users/igoralmeida/Dev/igorapa/_includes/head.html",
+		"/Users/igoralmeida/Dev/igorapa/_includes/header.html",
+		"/Users/igoralmeida/Dev/igorapa/_layouts/post.html",
+		"/Users/igoralmeida/Dev/igorapa/_layouts/default.html",
+		"/Users/igoralmeida/Dev/igorapa/_layouts/page.html",
+		"/Users/igoralmeida/Dev/igorapa/_layouts/home.html",
+		"/Users/igoralmeida/Dev/igorapa/_includes/footer.html",
+		"/Users/igoralmeida/Dev/igorapa/index.html",
+		"/Users/igoralmeida/Dev/igorapa/css/main.css",
+		"/Users/igoralmeida/Dev/igorapa/sobre.md",
+		"/Users/igoralmeida/Dev/igorapa/blog.md",
+		"/Users/igoralmeida/Dev/igorapa/_config.yml",
+		"/Users/igoralmeida/Dev/igorapa/_posts/2014-07-29-welcome-to-jekyll.markdown",
+		"/Users/igoralmeida/Dev/igorapa/_posts/2014-07-29-teste4-to-jekyll.markdown",
+		"/Users/igoralmeida/Dev/igorapa/_posts/2014-07-29-teste1-to-jekyll.markdown",
+		"/Users/igoralmeida/Dev/igorapa/_posts/2014-07-29-hello-world.markdown",
+		"/Users/igoralmeida/Dev/igorapa/about.md",
 		"/Jobs/vagrant/BKP/hosts",
 		"/Jobs/ep-611-assets/themes/NS_AR_2014/L_RIVER/templates/velocity/estaticas/pagamentoTxt.vm",
 		"/Jobs/ep-611-assets/themes/NS_AR_2014/default/templates/velocity/includes/popFrete.vm",
@@ -446,24 +355,7 @@
 		"/Users/igoralmeida/Dev/input/js/placeholder.js",
 		"/Users/igoralmeida/Jobs Diversos/input/css/style.css",
 		"/Users/igoralmeida/Jobs Diversos/input/index.html",
-		"/Users/igoralmeida/Jobs Diversos/input/js/placeholder.js",
-		"/Users/igoralmeida/Desktop/Input/index.html",
-		"/Users/igoralmeida/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/igoralmeida/Jobs Diversos/teste/projeto-1/lousa.html",
-		"/Users/igoralmeida/Jobs Diversos/teste/projeto-1/nova-funcionalidade.txt",
-		"/Users/igoralmeida/Jobs Diversos/teste/projeto-1/testando-texto.txt",
-		"/Users/igoralmeida/Jobs Diversos/teste/projeto-1/texto2.txt",
-		"/Users/igoralmeida/Jobs Diversos/teste/projeto-1/bug.txt",
-		"/Jobs/afiliados/versoes/140618/index.html",
-		"/Jobs/afiliados/versoes/140618/www.netshoes.com.br/structure__2.css",
-		"/Jobs/afiliados/versoes/140618/www.netshoes.com.br/sub-home__2.css",
-		"/Users/igoralmeida/Downloads/sub-home__2.css",
-		"/Jobs/lab/slider-div-javascript-jquery/src/slider.js",
-		"/Users/igoralmeida/Jobs Diversos/vestiario/index.html",
-		"/Jobs/xml/arquivo.xml",
-		"/Jobs/teste3/teste3.html",
-		"/Jobs/teste3/acessarWS.js",
-		"/Jobs/teste3/xml.xml"
+		"/Users/igoralmeida/Jobs Diversos/input/js/placeholder.js"
 	],
 	"find":
 	{
@@ -523,6 +415,10 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			".site-nav .page-link ",
+			"fa ",
+			"site-foo",
+			"trigger",
 			"compraron este producto",
 			"quénes",
 			"compraron este producto",
@@ -646,11 +542,7 @@
 			"</li>",
 			"<li>",
 			"R$</del>",
-			"</p>",
-			"<p>",
-			"header",
-			"header-banner",
-			"'192.168.124.137"
+			"</p>"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -668,394 +560,13 @@
 	"groups":
 	[
 		{
-			"selected": 5,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/igoralmeida/Dev/igorapa/_layouts/home.html",
-					"settings":
-					{
-						"buffer_size": 131,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								93,
-								93
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/igoralmeida/Dev/igorapa/_layouts/default.html",
-					"settings":
-					{
-						"buffer_size": 245,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								67,
-								92
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/igoralmeida/Dev/igorapa/_layouts/post.html",
-					"settings":
-					{
-						"buffer_size": 346,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/igoralmeida/Dev/igorapa/_layouts/page.html",
-					"settings":
-					{
-						"buffer_size": 187,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/igoralmeida/Dev/igorapa/_includes/head.html",
-					"settings":
-					{
-						"buffer_size": 642,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								491,
-								491
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/igoralmeida/Dev/igorapa/_includes/header.html",
-					"settings":
-					{
-						"buffer_size": 507,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								59,
-								59
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/igoralmeida/Dev/igorapa/_includes/footer.html",
-					"settings":
-					{
-						"buffer_size": 3515,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 221.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 7,
-					"file": "/Users/igoralmeida/Dev/igorapa/css/main.css",
-					"settings":
-					{
-						"buffer_size": 10752,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1155,
-								1155
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 512.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/Users/igoralmeida/Dev/igorapa/blog.md",
-					"settings":
-					{
-						"buffer_size": 481,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31,
-								31
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/Users/igoralmeida/Dev/igorapa/about.md",
-					"settings":
-					{
-						"buffer_size": 470,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "/Users/igoralmeida/Dev/igorapa/_config.yml",
-					"settings":
-					{
-						"buffer_size": 237,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31,
-								31
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "/Users/igoralmeida/Dev/igorapa/index.html",
-					"settings":
-					{
-						"buffer_size": 21,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								21,
-								21
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "/Users/igoralmeida/Dev/igorapa/_posts/2014-07-29-welcome-to-jekyll.markdown",
-					"settings":
-					{
-						"buffer_size": 782,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								782,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "/Users/igoralmeida/Dev/igorapa/_posts/2014-07-29-hello-world.markdown",
-					"settings":
-					{
-						"buffer_size": 773,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								95,
-								95
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1126,6 +637,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 151.0,
+	"side_bar_width": 242.0,
 	"status_bar_visible": true
 }
