@@ -1,11 +1,11 @@
 # Site settings
-title: igor apa
+title: Igor APA
 email: me@igorapa.com
 description: "alguma coisa vai aqui"
 baseurl: ""
 url: "http://igorapa.com"
-twitter_username: igorapa
-github_username:  igor-apa
+# twitter_username: igorapa
+# github_username:  igor-apa
 
 # Build settings
 markdown: kramdown

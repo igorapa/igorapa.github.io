@@ -9,6 +9,7 @@
     
     <div class="page-content">
       <div class="wrap">
+
       {{ content }}
      
         <div class="home">
@@ -16,6 +17,11 @@
           <!-- <h1>Posts</h1> -->
 
           <ul class="posts">
+
+            <header class="post-header">
+              <h1>Blog</h1>
+            </header>
+
             {% for post in site.posts %}
               <li>
                 <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -23,8 +29,6 @@
               </li>
             {% endfor %}
           </ul>
-
-          <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
         </div>
       </div>
