@@ -5,8 +5,7 @@ permalink: /sobre/
 ---
 
 <img class="profile" src="/img/igorapa.jpg">
-Olá,<br>
-Me chamo <strong>Igor APA</strong>,<br>
+Olá, me chamo <strong>Igor APA</strong>,<br>
 Formado em design gráfico e adorador de tecnologia e programação.<br>
 Trabalho na <strong>netshoes.com</strong> como <strong>front-end developer</strong>.<br>
 
@@ -15,5 +14,3 @@ Amo descobrir e desenvolver algo novo.<br>
 O intuito com esse blog é documentar minhas experiências e compartilhar conhecimento.
 
 Dúvidas ou sugestões? Me mande um e-mail <strong>me@igorapa.com</strong>
-
-o/
