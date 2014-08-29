@@ -1,39 +1,17 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 
-{% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-    
-    <div class="page-content">
-      <div class="wrap">
-
-      {{ content }}
-     
-        <div class="home">
-
-          <ul class="posts">
-
-            <header class="post-header">
-              <h1>Blog</h1>
-            </header>
-
-            {% for post in site.posts %}
-              <li>
-                <span class="post-date">{{ post.date | date: "%-d %b %Y" }}</span>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-
-        </div>
-      </div>
-    </div>
-
-    {% include footer.html %}
-    {% include google-analytics.html %}
-
-  </body>
-</html>
+<div class="home">
+  <ul class="posts">
+    <header class="post-header">
+      <h1>Blog</h1>
+    </header>
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%-d %b %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
