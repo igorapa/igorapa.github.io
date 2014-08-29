@@ -384,5 +384,7 @@ a:hover { color}
     clear: both;
     width: auto;
     margin: 0 0 15px; }
-
+  .site-footer li {
+    margin: 0 12px;
+  }
 }
