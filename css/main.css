@@ -387,4 +387,10 @@ a:hover { color}
   .site-footer li {
     margin: 0 12px;
   }
+
+  .profile {
+    float: none;
+    display: block;
+    margin: 0 auto 30px;
+  }
 }
