@@ -1,18 +1,15 @@
 # Site settings
 title: Igor APA
 email: me@igorapa.com
-description: "Sou Front-End Developer e meu intuito com esse site é transmitir o que ando aprendendo repassando conhecimento."
+description: "Sou Front-End Developer e meu intuito com esse site é transmitir o que ando aprendendo, repassando conhecimento."
 baseurl: 
 paginate: 1
 url: http://igorapa.com
-# twitter_username: igorapa
-# github_username:  igor-apa
+permalink: none
 
 author:
 name: Igor APA
 url: https://twitter.com/igorapa
 
 # Custom vars
-version: 1.0.0
-github:
 repo: https://github.com/igorapa/igorapa.github.io
