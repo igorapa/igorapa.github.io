@@ -229,6 +229,12 @@ a:hover { color}
   letter-spacing: -1px;
 }
 
+.post-content img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
 .post-content blockquote {
   border-left: 4px solid #e8e8e8;
   padding-left: 20px;
