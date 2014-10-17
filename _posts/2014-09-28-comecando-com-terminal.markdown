@@ -18,6 +18,18 @@ Quando consegui a vaga de Front-End na Netshoes ([veja post de agradecimento par
 
 Mas por onde começar? Qual sua utilidade? Devo usar? Irei quebrar algo? Não sei se irei responder todas essas perguntas, mas pretendo dar um pontapé com os comando fundamentais para você se achar nos labirintos das linhas de comandos.
 
+##Primeiros passos com o Console
+
+Console é uma interface baseada em texto e é mais rápido do que usar mouse com menus. Muitos servidores tem a interface de console e programas também utilizam essa interface baseada em console.
+
+##POSIX
+
+????????
+
+Digitamos nosso comandos e o computador retorna a informação de resposta e será impressa a partir de cima para baixo. Então as informações mais atualizadas serão sempre na parte inferior.
+
+A parte onde digitamos o comando é chamada de `Linha de Comando`
+
 
 
 <!--![Big Eyes](/img/big-eyes.gif)-->
