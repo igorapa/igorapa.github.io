@@ -252,19 +252,18 @@ a:hover { color}
 .post code {
   background-color: #2d2d2d;
   padding: 8px 12px;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
   font-size: 15px;
   overflow:scroll;
-  color: #eaeaea;
 }
 
-.post code { padding: 5px; }
+.post code { padding: 2px 5px; background: #EAE9E9; color: #1740A9; }
 
 .post ul,
 .post ol { margin-left: 1.35em; }
 
 .post pre code {
+  background-color: #2d2d2d;
+  color: #eaeaea;
   border: 0;
   padding-right: 0;
   padding-left: 0;
