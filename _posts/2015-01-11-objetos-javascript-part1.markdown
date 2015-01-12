@@ -32,7 +32,7 @@ Veja acima que criei um Objeto com meu nome, mas não necessariamente ele precis
 
 Diferentes de Array que usa colchete `[]`, Objeto usa chave `{}`. Dentro dessa chave temos as informações que são conhecidas como Propriedades.
 
-MAAAASSSSSSSSSSSSSSSS, com `{}` é a forma de criar Objetos chamada de __notação literal de objeto__
+MAAAASSSSSSSSSSSSSSSS, com `{}` é a forma de criar Objetos chamada de __notação literal de objeto__, continue que mais para frente tu irá entender melhor.
 
 ##Propriedades o que são?
 
@@ -77,7 +77,7 @@ Viu? Para acessar a Propriedade nesse caso, não precisa do ponto `.`, apenas do
 
 ##Objeto com Construtor
 
-Mas acima, informei que a forma da criação do Objeto que fizemos foi em __notação literal__ usando `{ }`, agora vamos falar da forma __construtor__ que usa a definição `new` e não usa `{ }`. Após o operador `new` vem o nome da função construtora que inicializa o Objeto.
+Mas acima, informei que a forma da criação do Objeto que fizemos foi em __notação literal__ usando `{ }`, agora vamos falar da forma __construtor__ que usa a definição `new` e não usa `{ }`. Após o operador `new` vem o nome da função construtora que inicializa o Objeto, no caso `Object()`.
 
 A palavra chave `new` seguida por `Object()` é usada para criar um objeto vazio. Veja um exemplo abaixo!
 
@@ -161,7 +161,7 @@ Criamos um Objeto da forma construtora chamado `arno` e criamos 3 Propriedades, 
 
 Temos o trecho `arno.liquidificador(true);` que chama o Método, e só a partir daí que as Propriedades serão alteradas, depois no console é impresso o resultado.
 
-Acho podemos parar por aqui por enquanto para não ficar muito cansativo. Em breve teremos a segunda parte!
+Acho que podemos parar por aqui por enquanto para não ficar muito cansativo. Em breve teremos a segunda parte!
 
 Aquele Abraço o/
 
