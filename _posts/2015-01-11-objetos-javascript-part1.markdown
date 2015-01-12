@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Objetos JavaScript"
-date:   2015-01-07 20:37:00
+title:  "Objetos JavaScript part1"
+date:   2015-01-11 23:11:00
 ---
 
 Estou (Estão) me cobrando para postar algo mais no blog, até tenho uns 3 drafts, porém tenho um sério problema de me cobrar demais, e tudo que faço, acho que daria para ficar melhor e acabo nem postando nada... Triste!
@@ -75,13 +75,95 @@ console.log('Meu gato é ' + cat["specie"] + ' e tem ' + cat["age"] + ' anos!');
 
 Viu? Para acessar a Propriedade nesse caso, não precisa do ponto `.`, apenas do `[ ]` com `" "` apesar de preferir usar a notação de ponto. Porém existe algumas situações que é melhor usar de colchetes, irei falar disso mais para frente, talvez em outro post.
 
+##Objeto com Construtor
 
+Mas acima, informei que a forma da criação do Objeto que fizemos foi em __notação literal__ usando `{ }`, agora vamos falar da forma __construtor__ que usa a definição `new` e não usa `{ }`. Após o operador `new` vem o nome da função construtora que inicializa o Objeto.
 
+A palavra chave `new` seguida por `Object()` é usada para criar um objeto vazio. Veja um exemplo abaixo!
 
+{% highlight js %}
+var obj = new Object();
+{% endhighlight %}
 
+Perceba que mesmo vazio, é simples criar um Objeto com construtor... Caso queira imprimir no console, ele não irá mostrar nada. Tente!
 
+{% highlight js %}
+console.log(obj);
+{% endhighlight %}
 
+Nada será impresso, mas para saber se realmente é um objeto podemos testar com o `typeof` dessa forma.
 
+{% highlight js %}
+console.log(typeof obj);
+{% endhighlight %}
+
+Com toda certeza será impresso `"object"` no console. Agora vamos preencher com Propriedades esse Objeto construtor.
+
+{% highlight js %}
+var obj = new Object();
+obj.size = 40;
+obj.color = "blue";
+obj.name = 'obj';
+{% endhighlight %}
+
+Diferente da forma notação literal, não usamos vírgula `,` dois pontos `:` chave `{ }`... Mas a forma de criar a propriedade se parece muito com a forma de declarar uma variável com `=` para receber o valor e `;` no final para finalizar a declaração. Igor, posso pensar Propriedade como uma variável vinculada ao Objeto? Claro que pode!
+
+Para criação das Propriedades do Objeto construtor usamos a notação de ponto, mas podemos usar também a notação de colchetes.
+
+{% highlight js %}
+var obj = new Object();
+obj['algo'] = 'alguma coisa';
+{% endhighlight %}
+
+Simples demais? Eu sei!
+
+##Método de um Objeto
+
+Tu sabe o que é uma função? Método é como uma função acoplada ao Objeto ou da mesma forma quando um Objeto invoca uma função. Vejamos!
+
+{% highlight js %}
+function liquidificador(status) {
+  obj.velocidade = 100;
+  obj.ligado = status;
+}
+
+var obj = new Object();
+obj.velocidade = 50;
+obj.ligado = true;
+
+liquidificador(false);
+{% endhighlight %}
+
+Viu? Acima temos uma função `liquidificador` que no momento não é um Método, um Objeto construtor `obj` e a chamada da função que passa o parâmetro `false`. O Objeto já tem duas Propriedades até a função ser chamada com o parâmetro, após isso o Objeto terá suas duas Propriedades alteradas, `velocidade` que era `50` passou a ser `100` e `ligado` que era `true` passou a ser `false`.
+
+Vamos para uma outra situação...
+
+{% highlight js %}
+
+function liquidificador(status) {
+  this.velocidade = 150;
+  this.ligado = status;
+}
+
+var arno = new Object();
+arno.velocidade = 100;
+arno.ligado = false;
+arno.liquidificador = liquidificador;
+
+arno.liquidificador(true);
+console.log(arno);
+
+{% endhighlight %}
+
+Agora aquela mesma função que não era um Método passou a ser um... Vamos verificar!
+
+Criamos um Objeto da forma construtora chamado `arno` e criamos 3 Propriedades, `velocidade` que recebe `100`, `ligado` que recebe `false` e `liquidificador` que recebe a função `liquidificador` criado anteriormente. Essa última Propriedade é um Método que passa `status` como parâmetro e altera (assim que chamada) as duas primeiras Propriedades citadas, `velocidade` para `150` e `ligado` para `true`.
+
+Temos o trecho `arno.liquidificador(true);` que chama o Método, e só a partir daí que as Propriedades serão alteradas, depois no console é impresso o resultado.
+
+Acho podemos parar por aqui por enquanto para não ficar muito cansativo. Em breve teremos a segunda parte!
+
+Aquele Abraço o/
 
 
 
