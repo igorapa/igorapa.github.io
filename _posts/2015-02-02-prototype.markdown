@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prototype"
-date:   2015-02-02 15:02:00
+date:   2015-02-12 11:59:00
 ---
 
 Venho estudando bastante sobre JavaScript avançado, e tropecei em Prototype! Considero muito importante entender o funcionamento dele, ao mesmo tempo que parece fácil o entendimento, é meio confuso (pelo menos para mim) aplicar o seu funcionamento. 
