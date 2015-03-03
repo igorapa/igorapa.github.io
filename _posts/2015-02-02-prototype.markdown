@@ -49,7 +49,7 @@ Vamos para um outro exemplo para entender melhor.
 {% highlight js %}
 function Cachorro(nome, raca, idade) {
   this.nome = nome;
-  this.raca = racal;
+  this.raca = raca;
   this.idade = idade;
 }
 
