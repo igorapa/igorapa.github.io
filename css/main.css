@@ -132,6 +132,10 @@ a:hover { color}
   color: #fff;
   display: inline-block;
   margin: 0 20px;
+
+  transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
 }
 .site-footer li:hover {
   color: #e30ad2;
