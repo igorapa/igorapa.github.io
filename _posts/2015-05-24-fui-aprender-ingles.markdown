@@ -69,9 +69,9 @@ Levei uma grana para comprar celular e notebook, então fui sem nada na qual pod
 
 ## Minhas aulas e o inglês evoluindo
 
-Fui para escola na segunda e entrei no nível 3, para eles era intermediário mais básico, mas nos 2 primeiros dias, eu achei muito fácil e lento, a professora era ótima, mas o que segurava é que tinha alguns chineses que sabia bem inglês, mas que as vezes travavam em palavras simples mas que para eles era de outro mundo, até entendo já que eles vem de um vocabulário completamente diferente. A maioria dos alunos tinham no mínimo 6 meses para aprender, eu tinha apenas 30 dias! Não podia perder tempo.
+Fui para escola na segunda e entrei no nível 3, para eles era intermediário mais básico, mas nos 2 primeiros dias, eu achei muito fácil e lento, a professora era ótima, mas o que segurava é que tinham alguns chineses que sabiam bem inglês, mas que as vezes travavam em palavras simples mas que para eles era de outro mundo, até entendo já que eles vem de um vocabulário completamente diferente. A maioria dos alunos tinham no mínimo 6 meses para aprender, eu tinha apenas 30 dias! Não podia perder tempo.
 
-Fui conversar com a diretora sobre isso, e ela me colocou no dia seguinte no nível 4, e foi aí que sentir que estava decolando, era muito mais rápido e fluído a aula, a professora era ótima, e todos os dias tinha trabalho para casa, e isso me forçava a aprender muito, e não tinha com quem questionar em português sobre um tópico em inglês, fui aprendendo na marra.
+Fui conversar com a diretora sobre isso, e ela me colocou no dia seguinte no nível 4, e foi aí que senti que estava decolando, era muito mais rápido e fluído a aula, a professora era ótima, e todos os dias tinha trabalho para casa, e isso me forçava a aprender muito, e não tinha com quem questionar em português sobre um tópico em inglês, fui aprendendo na marra.
 
 Os dias foram passando e cada dia estava mais afiado, puxava assunto com qualquer pessoa que passava na minha frente, perguntava coisas mesma que já sabia, só para ver como conseguia me interagir com as pessoas. Todos me trataram bem, e tinha paciência por saber que eu não tinha um ótimo inglês.
 
