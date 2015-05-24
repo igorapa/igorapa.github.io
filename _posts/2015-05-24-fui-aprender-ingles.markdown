@@ -4,7 +4,7 @@ title:  "Fui aprender Inglês"
 date:   2015-05-25 01:28:00
 ---
 
-O proposito desse meu blog é documentar o que ando aprendendo em programação, e não irei focar em uma única linguagem, mas no momento estou estudando em peso JavaScript, possivelmente quando estiver mais confortável com JS, irei postar algumas coisas sobre RUBY `|| outra linguagem. 
+O proposito desse meu blog é documentar o que ando aprendendo em programação, e não irei focar em uma única linguagem, mas no momento estou estudando em peso JavaScript, possivelmente quando estiver mais confortável com JS, irei postar algumas coisas sobre RUBY `||` outra linguagem. 
 
 Mas hoje irei falar de algo que vem ainda antes da programação e considero hoje uma grande importância na vida profissional e até mesmo pessoal de um programador, por incrível que pareça, muitos programadores discordam e não acham necessário o inglês como base para a programação, mas enfim, não estou aqui para convencer ninguém, meu intuito é deixar minha opinião sobre o tema.
 
