@@ -10,7 +10,7 @@ Mas hoje irei falar de algo que vem ainda antes da programação e considero hoj
 
 ## Motivo para aprender inglês
 
-Tudo começou quando tinha acabado migrar de área na [Netshoes](http://netshoes.com), eu estava como designer no Marketing e passei para o setor de TI como front-end, sim, sou formado em Design Gráfico e comecei minha carreira como designer em pequenas empresas até chegar na Netshoes, mas sempre em paralelo amava estudar sozinho programação e até hoje continuo estudando sem parar, mas isso é outra história, vamos voltar para o tema.
+Tudo começou quando tinha acabado de migrar de área na [Netshoes](http://netshoes.com), eu estava como designer no Marketing e passei para o setor de TI como front-end, sim, sou formado em Design Gráfico e comecei minha carreira como designer em pequenas empresas até chegar na Netshoes, mas sempre em paralelo amava estudar sozinho programação e até hoje continuo estudando sem parar, mas isso é outra história, vamos voltar para o tema.
 
 Então quando eu já estava pegando projetos de front-end da Netshoes e tudo estava fluindo bem, cheguei no [Daniel Filho](http://twitter.com/danielfilho) (um grande mentor para mim) e disse:
 
@@ -45,7 +45,7 @@ Então desisti de todas agências e comecei eu mesmo procurar lugares pelo mundo
 
 ## Tudo estava dando certo
 
-Fui recebendo vários emails e separando as melhores propostas até encontrar o curso perfeita para minha situação. Recebi um email muito bacana da Ruth dona de uma escola chamada [Language Pacifica](http://www.languagepacifica.org/) que fica em [Menlo Park, CA](https://www.google.com.br/maps/place/Menlo+Park,+CA,+USA/@37.4629307,-122.1748693,13z/data=!3m1!4b1!4m2!3m1!1s0x808fa6b1117280ff:0xebbf998e5df289ab?hl=pt-BR) nos EUA, ela dizia que a instituição já existia há muitos anos, que já receberam brasileiros porém não com tanta frequência, e que sim, conseguiam me ensinar mesmo eu não tendo uma base sólida de inglês.
+Fui recebendo vários emails e separando as melhores propostas até encontrar o curso perfeito para minha situação. Recebi um email muito bacana da Ruth dona de uma escola chamada [Language Pacifica](http://www.languagepacifica.org/) que fica em [Menlo Park, CA](https://www.google.com.br/maps/place/Menlo+Park,+CA,+USA/@37.4629307,-122.1748693,13z/data=!3m1!4b1!4m2!3m1!1s0x808fa6b1117280ff:0xebbf998e5df289ab?hl=pt-BR) nos EUA, ela dizia que a instituição existia há muitos anos, que já receberam brasileiros porém não com tanta frequência, e que sim, conseguiam me ensinar mesmo eu não tendo uma base sólida de inglês.
 
 Esse foi meu ponto de partida, tinha o principal que era o curso, o resto iria vir com o tempo e não precisava correr, todas as dúvidas que tinha eu mandava um email para Ruth e ela sempre respondia rápido com no máximo um dia de atraso. Então sempre tínhamos uma comunicação direta.
 
@@ -65,7 +65,7 @@ Faltava apenas chegar o dia, mas claro que não fiquei parado, aproveitei esse m
 
 Chegou o grande dia, fui recebido no aeroporto de San Francisco por uma assistente da Ruth, ela me levou até a casa de família que era em [Mountain View, CA](https://www.google.com.br/maps?ion=1&espv=2&q=mountain+view&um=1&ie=UTF-8&sa=X&ei=2HthVYGvKcy-ggSw6ICoBg&ved=0CAcQ_AUoAQ), isso era uma sexta-feira, fiquei completamente perdido, já que não estava entendo quase nada do inglês, mas eu não desistia, estava domado pela motivação de aprender, minha sorte que a senhora, dona da casa onde fiquei, gostava de falar muito, então eu prestava atenção em tudo que ela falava, mesmo que não entendia, para tentar entender padrões, gestos comuns, etc...
 
-Levei uma grana para comprar celular e notebook, então fui sem nada na qual podia me comunicar com família e amigos lá dos EUA, foram quase 48hs sem avisar que estava tudo bem, deu um problema nos planos e não consegui passar em nenhuma Apple Store. Mas com cara e coragem, conseguir achar a loja e comprei o que precisava para me comunicar. Foi tenso!
+Levei uma grana para comprar celular e notebook, então fui sem nada na qual podia me comunicar com família e amigos lá dos EUA, foram quase 48hs sem avisar que estava tudo bem, deu um problema nos planos e não consegui passar em nenhuma Apple Store. Mas com cara e coragem, consegui achar a loja e comprei o que precisava para me comunicar. Foi tenso!
 
 ## Minhas aulas e o inglês evoluindo
 
@@ -73,21 +73,21 @@ Fui para escola na segunda e entrei no nível 3, para eles era intermediário ma
 
 Fui conversar com a diretora sobre isso, e ela me colocou no dia seguinte no nível 4, e foi aí que senti que estava decolando, era muito mais rápido e fluído a aula, a professora era ótima, e todos os dias tinha trabalho para casa, e isso me forçava a aprender muito, e não tinha com quem questionar em português sobre um tópico em inglês, fui aprendendo na marra.
 
-Os dias foram passando e cada dia estava mais afiado, puxava assunto com qualquer pessoa que passava na minha frente, perguntava coisas mesma que já sabia, só para ver como conseguia me interagir com as pessoas. Todos me trataram bem, e tinha paciência por saber que eu não tinha um ótimo inglês.
+Os dias foram passando e cada dia estava mais afiado, puxava assunto com qualquer pessoa que passava na minha frente, perguntava coisas mesmo que já sabia, só para ver como conseguia interagir com as pessoas. Todos me trataram bem, e tinham paciência por saber que eu não tinha um ótimo inglês.
 
 Cheguei a sonhar em inglês de tanto ficar falando, nos últimos dias que liguei para minha mãe, tinha palavras que sem querer saiam em inglês no meio da conversa, era inacreditável, fiquei muito feliz nas últimas semanas pois já estava me virando muito bem e sabia que iria ver a família e amigos logo (ficar sem ver o rosto de qualquer pessoa conhecida por muito tempo dá uma sensação estranha).
 
 Sobre detalhes da viagem, o que fiz, onde visitei, fotos, irei fazer um post a parte!
 
-Claro que em 30 dias não fez eu voltar falando fluente, mas posso garantir que saltei mais ou menos um ano de curso aqui no Brasil, já consigo ser mais ativos nas reuniões em inglês na Netshoes, consigo entender melhor filmes, cursos e textos em inglês.
+Claro que em 30 dias não fez eu voltar falando fluente, mas posso garantir que saltei mais ou menos um ano de curso aqui no Brasil, já consigo ser mais ativo nas reuniões em inglês na Netshoes, consigo entender melhor filmes, cursos e textos em inglês.
 
-Peguei o contato da minha professora de lá dos EUA e estou continuando as aulas via Skype por uma hora e meia, umas vez por semana, a ideia é não parar de deixar a peteca cair.
+Peguei o contato da minha professora de lá dos EUA e estou continuando as aulas via Skype por uma hora e meia, uma vez por semana, a ideia é não parar de deixar a peteca cair.
 
 ## Por que aprender inglês?
 
 Não mencionei quase nada de programação neste texto, mas se parar para ver, esse é um pequeno detalhe de um background para você partir para uma programação mais avançada e não ficar dependendo que pessoas traduzam tutoriais, livros, documentos do inglês para o português.
 
-Nós programadores temos sorte que nossa profissão é universal, sabendo inglês você tem a chance de trabalhar em vários países, se você manter seu código no github em inglês, ajudar documentações em inglês, essa chance só aumenta, pelo motivo de empresas estrangeiras consigam navegar pelos seus repositórios, fora as empresas brasileiras que enxergam com outros olhos esses profissionais com domínio da língua. Como diz um outro grande mentor para mim:
+Nós programadores temos sorte que nossa profissão é universal, sabendo inglês você tem a chance de trabalhar em vários países, se você manter seu código no github em inglês, ajudar documentações em inglês, essa chance só aumenta, pelo motivo que empresas estrangeiras consigam navegar pelos seus repositórios, fora as empresas brasileiras que enxergam com outros olhos esses profissionais com domínio da língua. Como diz um outro grande mentor para mim:
 
 > Uma segunda língua te dá o poder de escolha
 > - [Rafael Rinaldi](https://twitter.com/rafaelrinaldi)
