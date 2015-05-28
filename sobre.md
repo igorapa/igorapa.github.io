@@ -13,4 +13,4 @@ Me considero leigo em tudo, e é por isso que me motiva estudar sempre.<br>
 Amo descobrir e desenvolver algo novo.<br>
 O intuito com esse blog é documentar minhas experiências e compartilhar conhecimento.
 
-Dúvidas ou sugestões? Me mande um e-mail <strong>me@igorapa.com</strong>
+Dúvidas ou sugestões? Me mande um e-mail <strong>apa.igor@gmail.com</strong>
